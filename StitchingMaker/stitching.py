@@ -1,3 +1,6 @@
+import sys
+sys.path.append('../')
+sys.path.append('../opencv')
 import os
 import numpy as np
 import urllib
@@ -6,9 +9,6 @@ import base64
 import time
 import requests
 import datetime
-
-import sys
-sys.path.append('../')
 
 # stitcher
 from Panorama.panorama import Stitcher
