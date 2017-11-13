@@ -1,0 +1,2 @@
+../Data/Image Sample/Stitching/L1.jpg
+../Data/Image Sample/Stitching/L2.jpg
